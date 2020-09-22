@@ -20,9 +20,9 @@
 - Who else is doing something similar?
 
 
-*Project Concept*
+**Project Concept**
 
-Design concept:
+*Design concept:*
 
 ![cooper hewitt color theory](https://github.com/madhat5/MS_2020-concept_project/blob/master/DEPLOY/cooper_hewitt-color_theory-visual-concept-v1.png)
 
