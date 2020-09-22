@@ -1,4 +1,4 @@
-## 01b Concept & Sketches
+## Project Concept & Sketches
 
 **Project Questions**
 
@@ -40,7 +40,15 @@
 4. Once completeed, this project could be used as educational example, on how to manipulate pre-existing visual templates into non-standard forms
 5. This project will be completed using the D3.js library, and published on Github. Additional tools used will include 
     - the Smithsonian API
-    - Color palette tools such as: https://projects.susielu.com/viz-palette
+    - Color palette tools such as: 
+        > https://projects.susielu.com/viz-palette
+    - Is P5.js a better tool for this?
+    - Add "All button" to slider?
+    - Coding ref:
+        > https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
+        > https://observablehq.com/@d3/zoomable-sunburst
+        > https://observablehq.com/@d3/zoomable-sunburst
+    - Can I have hover states over the circles to show individual posters
 6. Using the Smithsonian API (src: https://collections.si.edu/search/), I will be querying the database for the "Poster" type locatied in the Cooper Hewitt, Smithsonian Design Museum (catalog record source). From there, I will be parsing for the following variables within the data set:
     - DATE
     - DESCRIPTION
@@ -54,7 +62,7 @@
     - Color in Branding
         > https://digitalsynopsis.com/design/logo-colour-branding-psychology-industry-specific/
     - Although not tackling the same question, the following demonstrates a possible outcome to this visual project
-        > https://blogs.ei.columbia.edu/2019/02/14/carbon-catalogue-products/s
+        - https://blogs.ei.columbia.edu/2019/02/14/carbon-catalogue-products/
     - London City Intelligence Data Visualisation and Information Design Guidelines
         > https://medium.com/nightingale/how-to-create-brand-colors-for-data-visualization-style-guidelines-dbd69c586dd9
     - Logo color wheels
@@ -63,3 +71,5 @@
         > https://www.deviantart.com/pouryapouzesh/art/Logo-Color-wheel-545449830
     - Avengers Comic Book Cover Colors Data Visualization
         > https://coolinfographics.com/blog/2015/4/28/avengers-comic-book-cover-colors-data-visualization.html
+
+####
