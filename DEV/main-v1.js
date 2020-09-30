@@ -21,6 +21,7 @@
 const apiKey = "LsKWCorPYAHUySjA1Um5X5K7TrAyCNnaVmFO0alc";  
 // search base URL
 const searchBaseURL = "https://api.si.edu/openaccess/api/v1.0/search";
+let dataRows = 500;
 /* ============================ */
 
 // constructing the initial search query
@@ -38,7 +39,7 @@ let jsonString = '';
 
 // search: fetches an array of terms based on term category
 function fetchSearchData(searchTerm) {
-    let url = searchBaseURL + "?api_key=" + apiKey + "&q=" + searchTerm;
+    let url = searchBaseURL + "?api_key=" + apiKey + "&q=" + searchTerm + '&rows=' + dataRows;
     console.log(url);
     window
     .fetch(url)

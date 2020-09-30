@@ -1,14 +1,16 @@
 // console.log('sim sim salabim');
 "use strict"
 
-const fs = require('fs'),
-    querystring = require('querystring'),
-    request = require('request'),
-    async = require('async'),
+const   fs = require('fs'),
+        querystring = require('querystring'),
+        request = require('request'),
+        async = require('async'),
         dotenv = require('dotenv');
 
 // Data model
 var dataModel = [{
+    id: 'string',
+    title: 'string',
     topic: 'string',
     year: 1920,
     objectType: 'string'
@@ -21,12 +23,13 @@ dotenv.config();
 const API_KEY = process.env.SMITH_KEY;
 const API_URL = 'https://api.si.edu/openaccess/api/v1.0/search'
 const searchTerm = `unit_code:"NMAAHC"`;
+let dataRows = 500;
 
-// // array that we will write into
+// array that we will write into
 let dataArray = [];
 
 function dataSearch() {
-    let apiRequest = API_URL + "?api_key=" + API_KEY + "&q=" + searchTerm;
+    let apiRequest = API_URL + "?api_key=" + API_KEY + "&q=" + searchTerm + '&rows=' + dataRows;
 
     request(apiRequest, (err, res, body) => {
         if (err) {
@@ -35,16 +38,16 @@ function dataSearch() {
         // console.log(res.body)
 
         let apiData = JSON.parse(res.body);
-        dataArray.push(apiData);
+        dataArray.push('data', apiData);
         // console.log(dataArray);
-        writeFile()
+        writeFile('data', dataArray)
     });
 }
 
-function writeFile() {
-    fs.writeFileSync('data/data.json', JSON.stringify(dataArray));
+function writeFile(fsName, fsData) {
+    fs.writeFileSync('data/' + fsName + '.json', JSON.stringify(fsData));
     console.log('*** *** *** *** ***');
-    console.log('writeFile complete');
+    console.log('writeFile complete for', fsName);
 };
 
 dataSearch();
