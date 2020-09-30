@@ -30,11 +30,25 @@ dataObj.forEach((el, i) => {
     // console.log(el)
     // console.log(i)
 
+    // Turn dates array years into integers
+    let cleanYear = el.content.indexedStructured.date
+    // console.log(cleanYear);
+
+    // cleanYear.forEach((yr, index) => {
+    //     if (yr === 'undefined') {
+    //         console.log('err')
+    //     }
+    //     console.log(i)
+    //     // console.log(parseInt(yr, 10))
+    //     // yr.replace(/s/,"");
+    // });
+
     cleanData.push({
         id: el.id,
         title: el.title,
         topic: el.content.indexedStructured.topic,
         // year: el.content.date[0].content, DON'T USE?
+        // year: cleanYear,
         year: el.content.indexedStructured.date,
         objectType: el.content.indexedStructured.object_type
     });
