@@ -1,0 +1,2233 @@
+[{
+    "status": 200,
+    "responseCode": 1,
+    "response": {
+        "rows": [{
+            "id": "edanmdm-nmaahc_2008.15.2",
+            "title": "Badge from Madam C.J. Walker convention",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2008.15.2",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2008.15.2",
+                    "online_media": {
+                        "mediaCount": 2,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2008_15_2_001",
+                            "idsId": "NMAAHC-2008_15_2_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9062ed753-7c6b-4ae7-bb11-4c5b632edcbf",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2008_15_2_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2008_15_2_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2033x2033)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2008_15_2_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2008_15_2_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2008_15_2_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-F38FD496A0F42_5001",
+                            "idsId": "NMAAHC-F38FD496A0F42_5001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9d614fcc3-1041-4fc8-bbec-2ee6d3f766ad",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-F38FD496A0F42_5001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-F38FD496A0F42_5001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3052x3052)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-F38FD496A0F42_5001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-F38FD496A0F42_5001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-F38FD496A0F42_5001_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "BADGE FROM MADAM C.J. WALKER CONVENTION",
+                    "guid": "http://n2t.net/ark:/65665/fd5e8a7618a-f7e6-479a-a3e0-09773a84bc96",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2008.15.2",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Badge from Madam C.J. Walker convention"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1910s", "1930s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Defending Freedom, Defining Freedom: The Era of Segregation, 1876-1968",
+                        "building": "NMAAHC"
+                    }],
+                    "geoLocation": [{
+                        "L5": {
+                            "type": "City",
+                            "content": "Chicago"
+                        }
+                    }, {
+                        "L4": {
+                            "type": "County",
+                            "content": "Cook County"
+                        }
+                    }, {
+                        "L3": {
+                            "type": "State",
+                            "content": "Illinois"
+                        }
+                    }, {
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North and Central America"
+                        }
+                    }],
+                    "object_type": ["Badges", "Portraits"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Scurlock, Addison N.", "Gause, Alice", "Bastian Brothers Company", "Walker, Madam C.J.", "Madam C.J. Walker Manufacturing Company"],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["Women", "Business"],
+                    "place": ["Chicago", "United States", "Illinois", "North and Central America", "Cook County"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Memorabilia and Ephemera"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Defending Freedom, Defining Freedom: The Era of Segregation, 1876-1968"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse 2, C 2053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "ca. 1920s"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2008.15.2"
+                    }],
+                    "notes": [{
+                        "label": "Caption",
+                        "content": "Madam C. J. Walker (1867-1919) was an African American entrepreneur, educator and philanthropist. Her company manufactured, distributed, and sold hair care products developed for black women. She also established beauty schools across the country that trained women to work as agents, known as “hair culturists.” Walker’s beauty schools and manufacturing company offered unique opportunities for African American women when there were few job options beyond domestic service and manual labor. Pins such as this one were awarded to successful agents at annual conventions."
+                    }, {
+                        "label": "Description",
+                        "content": "A tiered pin or badge, in gold metal. The first tier features an illustration of clasped hands,the forearms and hands of two males shaking hands, the second tier is a rectangular white placard with the name, \"Alice Gause\" handwritten in black ink. The third tier features a circular shaped black and white portrait of Madame C.J. Walker in an ornate gold metal frame. The tiers are connected via chains."
+                    }, {
+                        "label": "Transcription Center Status",
+                        "content": "Transcribed by digital volunteers"
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Dr. Patricia Heaston"
+                    }],
+                    "name": [{
+                        "label": "Manufactured by",
+                        "content": "Bastian Brothers Company, American, founded 1895"
+                    }, {
+                        "label": "Photograph by",
+                        "content": "Addison N. Scurlock, American, 1883 - 1964"
+                    }, {
+                        "label": "Subject of",
+                        "content": "Madam C.J. Walker, American, 1867 - 1919"
+                    }, {
+                        "label": "Subject of",
+                        "content": "Madam C.J. Walker Manufacturing Company, American, founded 1906"
+                    }, {
+                        "label": "Subject of",
+                        "content": "Alice Gause"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Business"
+                    }, {
+                        "label": "Topic",
+                        "content": "Women"
+                    }],
+                    "place": [{
+                        "label": "Place collected",
+                        "content": "Chicago, Cook County, Illinois, United States, North and Central America"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "brass (alloy), gold, lithographic ink on paper, metal, plastic and nitrocellulose"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W: 4 5/16 x 2 3/8 x 5/16 in. (11 x 6.1 x 0.8 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "portraits"
+                    }, {
+                        "label": "Type",
+                        "content": "badges"
+                    }]
+                }
+            },
+            "hash": "8bc577b7ec470a962ebc369e16cf16e92ba2ca6e",
+            "docSignature": "dcf040e0ff04d37181fcd4c2f7b03237fa098d0c_545d3798a85d95bf97c2a9c60c7e62ed",
+            "timestamp": "1594800835",
+            "lastTimeUpdated": "1594800829",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2011.51.6",
+            "title": "Identification tag for drummer “George Washington,” with American eagle",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2011.51.6",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2011.51.6",
+                    "online_media": {
+                        "mediaCount": 3,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_6_001",
+                            "idsId": "NMAAHC-2011_51_6_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9a6ca4dff-e5e0-41fd-8190-c6fe9c72e93c",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_6_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2400x2400)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_6_002",
+                            "idsId": "NMAAHC-2011_51_6_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az93cb3ab9c-dbf6-4fc8-b383-657359041cb0",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_6_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2400x2400)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_6_002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "idsId": "NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az992a6ac15-3e28-46d8-94e5-55b4c5e3c2f4",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b.tif"
+                            }, {
+                                "label": "High-resolution JPEG (5424x5424)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "IDENTIFICATION TAG FOR DRUMMER “GEORGE WASHINGTON,” WITH AMERICAN EAGLE",
+                    "guid": "http://n2t.net/ark:/65665/fd5ccf01129-128b-4cb0-ad16-c69a426e96d1",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2011.51.6",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Identification tag for drummer “George Washington,” with American eagle"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1860s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Double Victory: The African American Military Experience",
+                        "building": "NMAAHC"
+                    }],
+                    "object_type": ["Badges"],
+                    "geoLocation": [{
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North America"
+                        },
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States of America"
+                        }
+                    }],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Washington, George W."],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["Slavery", "Civil War, 1861-1865", "American Civil War (1861-1865)", "Instrumentalists (Musicians)", "Military", "United States Colored Troops"],
+                    "place": ["United States"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Collection title",
+                        "content": "Liljenquist Family Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Slavery and Freedom Objects"
+                    }, {
+                        "label": "Classification",
+                        "content": "Tools and Equipment-Military"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Double Victory: The African American Military Experience"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Community/Third Floor, 3 053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1863"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2011.51.6"
+                    }],
+                    "notes": [{
+                        "label": "Caption",
+                        "content": "After escaping slavery, Washington enlisted as a musician at age 16 in the U.S. Colored Infantry."
+                    }, {
+                        "label": "Description",
+                        "content": "Brass disk with attachment hole at the top. Obverse: struck with image of eagle with shield and arrows at center and \"IN THE WAR OF/ UNION/ 1861, 2 & 3\" around perimeter. Reverse: individual letters die stamped \"DRUMMIER\" across lower center and \"CoE.2nd REGT.NCC.VOLS GEORGE. WASHINGTON” around the perimeter."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift from the Liljenquist Family Collection"
+                    }],
+                    "name": [{
+                        "label": "Created by",
+                        "content": "Unidentified"
+                    }, {
+                        "label": "Owned by",
+                        "content": "George W. Washington, American, 1847 - 1926"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Instrumentalists (Musicians)"
+                    }, {
+                        "label": "Topic",
+                        "content": "Military"
+                    }, {
+                        "label": "Topic",
+                        "content": "Slavery"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States Colored Troops"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--Civil War, 1861-1865"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "brass (alloy)"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W: 1 3/16 x 1 3/16 x 1/8 in. (3 x 3 x 0.3 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "Public Domain"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "badges"
+                    }]
+                }
+            },
+            "hash": "87fb355cf72032ed1b29da4954149e0f6d047e34",
+            "docSignature": "b2e7835988c938f6d528d7ce36cfde8d4a8d88e4_373738ac261a504f37d4d55126be125b",
+            "timestamp": "1596528738",
+            "lastTimeUpdated": "1596528734",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2011.51.8",
+            "title": "Identification tag for Cornelius Robinson, with American eagle",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2011.51.8",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2011.51.8",
+                    "online_media": {
+                        "mediaCount": 3,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_8_001",
+                            "idsId": "NMAAHC-2011_51_8_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9112e720e-c789-4fc3-a4ab-5221d76272f8",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_8_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2368x2368)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_8_002",
+                            "idsId": "NMAAHC-2011_51_8_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9d0f94243-0a13-4cbc-906a-e3f87a4e289a",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_8_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2400x2400)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_8_002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "idsId": "NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az992a6ac15-3e28-46d8-94e5-55b4c5e3c2f4",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_82011_51_92011_51_6b",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b.tif"
+                            }, {
+                                "label": "High-resolution JPEG (5424x5424)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_82011_51_92011_51_6b_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "IDENTIFICATION TAG FOR CORNELIUS ROBINSON, WITH AMERICAN EAGLE",
+                    "guid": "http://n2t.net/ark:/65665/fd5d8603685-61ef-414b-9752-0482c2554ad2",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2011.51.8",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Identification tag for Cornelius Robinson, with American eagle"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1860s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Double Victory: The African American Military Experience",
+                        "building": "NMAAHC"
+                    }],
+                    "object_type": ["Badges"],
+                    "geoLocation": [{
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North America"
+                        },
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States of America"
+                        }
+                    }],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Robinson, Cornelius"],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["Slavery", "Civil War, 1861-1865", "American Civil War (1861-1865)", "Instrumentalists (Musicians)", "Military", "United States Colored Troops"],
+                    "place": ["United States"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Collection title",
+                        "content": "Liljenquist Family Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Slavery and Freedom Objects"
+                    }, {
+                        "label": "Classification",
+                        "content": "Tools and Equipment-Military"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Double Victory: The African American Military Experience"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Community/Third Floor, 3 053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1864"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2011.51.8"
+                    }],
+                    "notes": [{
+                        "label": "Caption",
+                        "content": "Robinson enlisted as a bugler at the age of 17 in the U.S. Colored Cavalry."
+                    }, {
+                        "label": "Description",
+                        "content": "Brass disk with attachment hole at top. Obverse: struck with image of eagle with shield and \"IN THE WAR Of UNION 1861, 2 & 3 & 4\". Reverse: \"CO. H2RDT. U. S./ CAVY.\" Individually die stamped at center and \"CORNELIUS ROBINSON\" around perimeter."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift from the Liljenquist Family Collection"
+                    }],
+                    "name": [{
+                        "label": "Created by",
+                        "content": "Unidentified"
+                    }, {
+                        "label": "Owned by",
+                        "content": "Cornelius Robinson, American, 1842 - 1916"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Instrumentalists (Musicians)"
+                    }, {
+                        "label": "Topic",
+                        "content": "Military"
+                    }, {
+                        "label": "Topic",
+                        "content": "Slavery"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States Colored Troops"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--Civil War, 1861-1865"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "brass (alloy)"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "1 3/16 x 1 13/16 x 1/16 in. (3 x 4.6 x 0.2 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "badges"
+                    }]
+                }
+            },
+            "hash": "39d8f2d9dd6708492a758491fecc5b6be2eefee3",
+            "docSignature": "582688aad0c798ca6e4e73ebd1ccbe6a1be8706d_4c6e99a11419c4a820514a05ba373c1b",
+            "timestamp": "1596528738",
+            "lastTimeUpdated": "1596528734",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2012.133",
+            "title": "Broadside for \"Men of Color\" Recruitment",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2012.133",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2012.133",
+                    "online_media": {
+                        "mediaCount": 1,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2012_133_001",
+                            "idsId": "NMAAHC-2012_133_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az96980918a-6e17-49f8-9f45-49849073094b",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2012_133_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2012_133_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (1518x1518)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2012_133_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2012_133_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2012_133_001_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "BROADSIDE FOR \"MEN OF COLOR\" RECRUITMENT",
+                    "guid": "http://n2t.net/ark:/65665/fd507081d76-abd3-47d2-9627-e580354a951c",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2012.133",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Broadside for \"Men of Color\" Recruitment"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1860s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Slavery and Freedom",
+                        "building": "NMAAHC"
+                    }],
+                    "geoLocation": [{
+                        "L5": {
+                            "type": "City",
+                            "content": "Philadelphia"
+                        }
+                    }, {
+                        "L3": {
+                            "type": "State",
+                            "content": "Pennsylvania"
+                        }
+                    }, {
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North and Central America"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North America"
+                        },
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States of America"
+                        }
+                    }],
+                    "object_type": ["Broadsides (notices)"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Douglass, Frederick"],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["Civil War, 1861-1865", "American Civil War (1861-1865)", "Military"],
+                    "place": ["United States", "North and Central America", "Philadelphia", "Pennsylvania"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Slavery and Freedom Objects"
+                    }, {
+                        "label": "Classification",
+                        "content": "Memorabilia and Ephemera-Advertisements"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Slavery and Freedom"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse 3, C3 053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1863"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2012.133"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "Large three-sheet broadside promoting \"Men of Color\" to enlist in the Army; text printed in relief with carved wood type and cast letterpress/metal type. Text reads \"MEN OF COLOR To Arms! To Arms!\""
+                    }, {
+                        "label": "Transcription Center Status",
+                        "content": "Transcribed by digital volunteers"
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+                    }],
+                    "name": [{
+                        "label": "Written by",
+                        "content": "Frederick Douglass, American, 1818 - 1895"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Military"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--Civil War, 1861-1865"
+                    }],
+                    "place": [{
+                        "label": "Place made",
+                        "content": "Philadelphia, Pennsylvania, United States, North and Central America"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "printing ink on rag paper"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W x D (framed): 95 × 48 5/8 × 2 3/4 in. (241.3 × 123.5 × 7 cm)"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W: 93 3/4 × 46 1/4 in. (238.1 × 117.5 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "broadsides"
+                    }]
+                }
+            },
+            "hash": "1e0b412f3542c4925c0cb8cd0bf962c159888fb0",
+            "docSignature": "30fca436882adc00a107cdef5d2b340b8121aba6_97f5f315152c28c24cff518efad89d4c",
+            "timestamp": "1596528738",
+            "lastTimeUpdated": "1596528734",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2013.201.1.22",
+            "title": "Pinback button promoting Martin Luther King Day",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2013.201.1.22",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2013.201.1.22",
+                    "online_media": {
+                        "mediaCount": 1,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_201_1_22_001",
+                            "idsId": "NMAAHC-2013_201_1_22_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az98290cda4-fa86-4667-91b3-d48c5a2971f6",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2013_201_1_22_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_201_1_22_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2968x2968)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_201_1_22_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_201_1_22_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2013_201_1_22_001_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "PINBACK BUTTON PROMOTING MARTIN LUTHER KING DAY",
+                    "guid": "http://n2t.net/ark:/65665/fd523ec0a1d-9e1c-4531-b5eb-f5d8415d6ae2",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2013.201.1.22",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Pinback button promoting Martin Luther King Day"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1980s"],
+                    "geoLocation": [{
+                        "L5": {
+                            "type": "City",
+                            "content": "Washington"
+                        }
+                    }, {
+                        "L3": {
+                            "type": "State",
+                            "content": "District of Columbia"
+                        }
+                    }, {
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North and Central America"
+                        }
+                    }],
+                    "object_type": ["Buttons (information artifacts)"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["King, Martin Luther", "Bailey, Jan"],
+                    "topic": ["Activism", "Politics", "Holidays and festivals"],
+                    "place": ["District of Columbia", "United States", "North and Central America", "Washington"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Memorabilia and Ephemera-Political and Activist Ephemera"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1982"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2013.201.1.22"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "Round pin-back button. Button is blue with white type that reads, [JANUARY 15, 1982/Martin/Luther/King/NATIONAL HOLIDAY/MARCH/WASHINGTON, D.C.]."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture"
+                    }],
+                    "name": [{
+                        "label": "Manufactured by",
+                        "content": "Unidentified"
+                    }, {
+                        "label": "Subject of",
+                        "content": "Dr. Martin Luther King Jr., American, 1929 - 1968"
+                    }, {
+                        "label": "Owned by",
+                        "content": "Jan Bailey, American, 1942 - 2010"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Activism"
+                    }, {
+                        "label": "Topic",
+                        "content": "Holidays and festivals"
+                    }, {
+                        "label": "Topic",
+                        "content": "Local and regional"
+                    }, {
+                        "label": "Topic",
+                        "content": "Politics (Practical)"
+                    }],
+                    "place": [{
+                        "label": "Place depicted",
+                        "content": "Washington, District of Columbia, United States, North and Central America"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "metal"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "Diameter: 2 1/4 × 3/8 in. (5.7 × 1 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "buttons (information artifacts)"
+                    }]
+                }
+            },
+            "hash": "a01e34fc234387044094487b2e0cad01c19b4236",
+            "docSignature": "04410029612a6345335b3aea5e491e06f701ce43_338f32859621061aef18e878cdca61b1",
+            "timestamp": "1596528738",
+            "lastTimeUpdated": "1596528735",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2007.3.19",
+            "title": "Dress designed by Ann Lowe",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2007.3.19",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2007.3.19",
+                    "online_media": {
+                        "mediaCount": 5,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_001-000001",
+                            "idsId": "NMAAHC-2007_3_19_001-000001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az92dfeb905-abbc-4c49-837d-7c91343fb27a",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_001-000001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_001-000001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3982x3982)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_001-000001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_001-000001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_001-000001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_002-000001",
+                            "idsId": "NMAAHC-2007_3_19_002-000001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az90382b471-896e-44c7-b3ba-04fbaf35a999",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_002-000001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_002-000001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3982x3982)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_002-000001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_002-000001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_002-000001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_003-000001",
+                            "idsId": "NMAAHC-2007_3_19_003-000001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az92ec9ba05-6c19-4603-a6bc-c834c8b16a23",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_003-000001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_003-000001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3840x3840)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_003-000001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_003-000001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_003-000001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_004-000001",
+                            "idsId": "NMAAHC-2007_3_19_004-000001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9f6c195a6-63a3-48d2-a004-960dfd4cee75",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_004-000001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_004-000001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3840x3840)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_004-000001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_004-000001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_004-000001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_005-000001",
+                            "idsId": "NMAAHC-2007_3_19_005-000001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az902a55952-f024-42ee-ab68-25c0c3cb4b31",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2007_3_19_005-000001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_005-000001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2000x2000)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_005-000001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_005-000001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2007_3_19_005-000001_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "DRESS DESIGNED BY ANN LOWE",
+                    "guid": "http://n2t.net/ark:/65665/fd5038e57d9-a7f3-44d9-9ec4-ce08fa6823cf",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2007.3.19",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Dress designed by Ann Lowe"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1960s"],
+                    "geoLocation": [{
+                        "L5": {
+                            "type": "City",
+                            "content": "New York City"
+                        }
+                    }, {
+                        "L3": {
+                            "type": "State",
+                            "content": "New York"
+                        }
+                    }, {
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North and Central America"
+                        }
+                    }],
+                    "object_type": ["Dresses (garments)"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Lowe, Ann", "Dowd, Barbara Baldwin", "Black Fashion Museum"],
+                    "topic": ["Design", "Women", "Clothing and dress", "Fashion", "Society"],
+                    "place": ["New York City", "United States", "North and Central America"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Collection title",
+                        "content": "Black Fashion Museum Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Clothing-Fashion"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1966-1967"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2007.3.19"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "An ivory dress decorated with swirls of handmade fabric rose vines, designed by Ann Lowe. The variety of rose depicted on the dress is the American Beauty, which has led to it being called the \"American Beauty\" dress. The bodice of the dress is sleeveless, with a scoop neck front, princess seams and a deep \"v\" in the back reaching to the waist. The skirt of the dress has a flat front, and the skirt gathers toward the center-back waist with box pleats to create a small bustle silhouette. Green silk vines and leaves, covered in two-toned pink rose blooms and buds, begin at each front shoulder above the bust, cover both shoulders, and run along the edges of the open back bodice to the center back. On the proper right side, one (1) small vine continues below the waist and wraps around the hip to the front of the skirt. On the proper left side, two (2) longer vines continue below the waist and wrap around to the front of the skirt, the longest ending just above the hemline and wrapping all the way around to the proper right front. The dress closes up the center back with a silver zipper that begins below the center back waist and ends above the waist. Two (2) large roses in full bloom are attached at the center back waist."
+                    }, {
+                        "label": "Description",
+                        "content": "The interior of the bodice is lined with ivory fabric. In the front and back of the bodice, boning is sewn at regular intervals to provide structure and shaping. Individual breast cups are shaped into the cut of the garment. A thin piece of elastic, attached in three places at the proper left, center front and proper right, provides support underneath the bust line. Thin shoulder straps made of the same material as the lining are tacked to the interior of the outer straps. A wider elastic band is tacked at the center front and closes in the center back with two hook-and-eyes to provide further bust support. An interior waistband of cream grosgrain ribbon is tacked to the interior waistline and closes at the center back with two (2) hook-and-eyes. The interior of the skirt is lined with light cream silk knit. The skirt has one (1) petticoat, made of ivory faille and lined with heavy linen that attaches to the waist at the center back with a hook-and-eye. The bottom of the petticoat has a tulle ruffle and is edged with stiffener."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of the Black Fashion Museum founded by Lois K. Alexander-Lane"
+                    }],
+                    "name": [{
+                        "label": "Designed by",
+                        "content": "Ann Lowe, American, 1898 - 1981"
+                    }, {
+                        "label": "Worn by",
+                        "content": "Barbara Baldwin Dowd, American"
+                    }, {
+                        "label": "Subject of",
+                        "content": "Black Fashion Museum, American, 1979 - 2007"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Clothing and dress"
+                    }, {
+                        "label": "Topic",
+                        "content": "Fashion"
+                    }, {
+                        "label": "Topic",
+                        "content": "Fashion design"
+                    }, {
+                        "label": "Topic",
+                        "content": "Social life and customs"
+                    }, {
+                        "label": "Topic",
+                        "content": "Women"
+                    }],
+                    "place": [{
+                        "label": "Place made",
+                        "content": "New York City, New York, United States, North and Central America"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "silk, tulle, linen, metal, and elastic"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "Waist: 23\", Length: 53\", Hem: 85\""
+                    }, {
+                        "label": "Dimensions",
+                        "content": "Storage: 25.4 x 152.4 x 55.9 cm (10 x 60 x 22 in.)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "dresses"
+                    }]
+                }
+            },
+            "hash": "5bf604ddc54cb91374ddc6aa1ca5a65b055e6a34",
+            "docSignature": "3fc852d878c300e992f7e913f55cc2036bab2029_c1d0527b34d627add1262fcb628bbd84",
+            "timestamp": "1596269687",
+            "lastTimeUpdated": "1596269682",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2009.4.1-.2",
+            "title": "<I>Obama 08</I>",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2009.4.1-.2",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2009.4.1-.2",
+                    "online_media": {
+                        "mediaCount": 8,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_001",
+                            "idsId": "NMAAHC-2009_4_1-_2_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9f8a7883c-6caa-4b10-a084-f66bfc9b5c56",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3714x3714)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_002",
+                            "idsId": "NMAAHC-2009_4_1-_2_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az988eb5675-7f6d-4f9e-b6a8-5daaae010369",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3295x3295)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_003",
+                            "idsId": "NMAAHC-2009_4_1-_2_003",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9575b5f45-1b2b-4032-a2a2-64709595139f",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_003",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_003.tif"
+                            }, {
+                                "label": "High-resolution JPEG (4018x4018)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_003.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_003_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_003_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_004",
+                            "idsId": "NMAAHC-2009_4_1-_2_004",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9fe183e32-c0fc-497c-8724-c11c05191662",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_004",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_004.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3739x3739)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_004.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_004_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_004_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_005",
+                            "idsId": "NMAAHC-2009_4_1-_2_005",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az958fb38e2-1578-4566-bc64-b012f4354575",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_005",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_005.tif"
+                            }, {
+                                "label": "High-resolution JPEG (4056x4056)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_005.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_005_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_005_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_006",
+                            "idsId": "NMAAHC-2009_4_1-_2_006",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9b25ed311-6653-42b1-af6f-a8560addd506",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_006",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_006.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2830x2830)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_006.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_006_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_006_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_007",
+                            "idsId": "NMAAHC-2009_4_1-_2_007",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az943ff13db-c33f-438d-9b2c-74be217885a3",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_007",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_007.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3052x3052)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_007.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_007_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_007_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_008",
+                            "idsId": "NMAAHC-2009_4_1-_2_008",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az92e368493-c65a-481b-89b3-6ee3808858aa",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_4_1-_2_008",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_008.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3471x3471)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_008.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_008_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_4_1-_2_008_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "<I>OBAMA 08</I>",
+                    "guid": "http://n2t.net/ark:/65665/fd57c3fae03-9189-43fc-abd8-372b95c5b425",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2009.4.1-.2",
+                    "title": {
+                        "label": "Title",
+                        "content": "<I>Obama 08</I>"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["2000s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "A Century in the Making",
+                        "building": "NMAAHC"
+                    }],
+                    "geoLocation": [{
+                        "L5": {
+                            "type": "City",
+                            "content": "Cleveland"
+                        }
+                    }, {
+                        "L4": {
+                            "type": "County",
+                            "content": "Cuyahoga County"
+                        }
+                    }, {
+                        "L3": {
+                            "type": "State",
+                            "content": "Ohio"
+                        }
+                    }, {
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States"
+                        }
+                    }, {
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North and Central America"
+                        }
+                    }],
+                    "object_type": ["Shoes (footwear)"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Nike Inc.", "Obama, Barack Hussein", "Monroe, Van Taylor"],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["United States--History--2001-", "Art", "Clothing and dress", "Politics"],
+                    "place": ["United States", "North and Central America", "Ohio", "Cleveland", "Cuyahoga County"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Visual Arts"
+                    }, {
+                        "label": "Classification",
+                        "content": "Clothing-Historical"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "A Century in the Making"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse, C X06"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "2008"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2009.4.1-.2"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "One pair of hand-painted sneakers (.1ab) featuring Barack Obama, with shoe box (.2). The shoes are a pair of white basketball sneakers, Nike Air Force 1s, painted over with an image of Obama's face in tones of grey against a blue background on the side panel; each sneaker features Obama in a different pose with the title [Obama 08] to the bottom left.The logo from the Obama campaign is painted in color to the left of Obama's image and in grey on the top toe panel. The left shoe (.1a) has navy laces and features the message [YES WE CAN] in white against a navy background; the right shoe (.1b) has red laces and features the message [CHANGE] in white against a navy background. The sneakers also feature blue stars placed on the inner shoe front panel and the artist's signature on the left sneaker."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Van Taylor Monroe, III"
+                    }],
+                    "name": [{
+                        "label": "Created by",
+                        "content": "Van Taylor Monroe III, American"
+                    }, {
+                        "label": "Subject of",
+                        "content": "President Barack Obama, American, born 1961"
+                    }, {
+                        "label": "Manufactured by",
+                        "content": "Nike Inc., American, founded 1971"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Art"
+                    }, {
+                        "label": "Topic",
+                        "content": "Clothing and dress"
+                    }, {
+                        "label": "Topic",
+                        "content": "Politics (Practical)"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--2001-"
+                    }],
+                    "place": [{
+                        "label": "Place made",
+                        "content": "Cleveland, Cuyahoga County, Ohio, United States, North and Central America"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "paint on leather with rubber and synthetic fiber"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W: 5 1/2 x 4 3/8 x 12 3/8 in. (14 x 11.1 cm). 12 US shoe size."
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "shoes (footwear)"
+                    }]
+                }
+            },
+            "hash": "a281632a7b98a2cfa68d81dd4016f32ceaa31d86",
+            "docSignature": "82146f9561645b135ab464a6d8e1147d0bdc193c_d477638a9296d394dc02e36184e87bcb",
+            "timestamp": "1596269687",
+            "lastTimeUpdated": "1596269683",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2009.50.25",
+            "title": "<I>Gospel Hymns No. 2</I>",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2009.50.25",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2009.50.25",
+                    "online_media": {
+                        "mediaCount": 8,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2001",
+                            "idsId": "NMAAHC-E6C979954EB82_2001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az977ba47c0-eb0d-408d-93b4-715758a46cd3",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2442x2442)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_001",
+                            "idsId": "NMAAHC-2009_50_25_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9b93c8c82-eabd-458a-99d9-61400f715c41",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2430x2430)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_002",
+                            "idsId": "NMAAHC-2009_50_25_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az96793726a-9894-4a6b-a586-a30d5eb07f90",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2048x2048)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_003",
+                            "idsId": "NMAAHC-2009_50_25_003",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9159ef725-126c-4e14-b5b0-92e3ede82250",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_003",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_003.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3027x3027)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_003.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_003_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_003_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_004",
+                            "idsId": "NMAAHC-2009_50_25_004",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9ef6f50ed-25dc-436b-a331-145a12dac57b",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2009_50_25_004",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_004.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3192x3192)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_004.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_004_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2009_50_25_004_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2002",
+                            "idsId": "NMAAHC-E6C979954EB82_2002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9a528c43f-8042-4500-8dbc-592da8a3b948",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2208x2208)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2003",
+                            "idsId": "NMAAHC-E6C979954EB82_2003",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9bfe93165-cc19-4fa3-906f-9b7bf0ef8d65",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2003",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2003.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2147x2147)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2003.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2003_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2003_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2004",
+                            "idsId": "NMAAHC-E6C979954EB82_2004",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az98369db9e-885a-44f0-80cd-4013822d668b",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-E6C979954EB82_2004",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2004.tif"
+                            }, {
+                                "label": "High-resolution JPEG (2505x2505)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2004.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2004_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-E6C979954EB82_2004_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "<I>GOSPEL HYMNS NO. 2</I>",
+                    "guid": "http://n2t.net/ark:/65665/fd5a64225cc-6a01-409e-b211-62ecc070fdbf",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2009.50.25",
+                    "title": {
+                        "label": "Title",
+                        "content": "<I>Gospel Hymns No. 2</I>"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1920s", "1910s", "1900s", "1880s", "1890s", "1860s", "1870s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Slavery and Freedom",
+                        "building": "NMAAHC"
+                    }],
+                    "object_type": ["Books"],
+                    "geoLocation": [{
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North America"
+                        },
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States of America"
+                        }
+                    }],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Bliss, Philip Paul", "Tubman, Harriet", "Sankey, Ira D."],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["Slavery", "Religion", "Gospel (Music)", "Emancipation", "History"],
+                    "place": ["United States"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Slavery and Freedom Objects"
+                    }, {
+                        "label": "Classification",
+                        "content": "Documents and Published Materials-Published Works"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Slavery and Freedom"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Concourse 3, C3 053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "1876"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2009.50.25"
+                    }],
+                    "notes": [{
+                        "label": "Caption",
+                        "content": "Gospel Hymns No. 2, by P. P. Bliss and Ira D. Sankey, Harriet Tubman’s personal book of hymns."
+                    }, {
+                        "label": "Description",
+                        "content": "Book of hymns by P.P. Bliss and Ira D. Sankey, 112-pages, discolored cover with black printing, text and binding. Text reads \"Gospel hymns No. 2, BY PP. BLISS AND IRA D. SANKEY AS USED BY THEM IN GOSPEL MEETINGS.\""
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Charles L. Blockson"
+                    }],
+                    "name": [{
+                        "label": "Composed by",
+                        "content": "Philip Paul Bliss, American, 1838 - 1876"
+                    }, {
+                        "label": "Composed by",
+                        "content": "Ira D. Sankey, American"
+                    }, {
+                        "label": "Owned by",
+                        "content": "Harriet Tubman, American, 1822 - 1913"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Emancipation"
+                    }, {
+                        "label": "Topic",
+                        "content": "Gospel (Music)"
+                    }, {
+                        "label": "Topic",
+                        "content": "Religion"
+                    }, {
+                        "label": "Topic",
+                        "content": "Slavery"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--1865-1921"
+                    }],
+                    "title": [{
+                        "label": "Title",
+                        "content": "Personal hymnal of Harriet Tubman"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "ink on paper, cardboard"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "H x W x D: 8 3/16 x 5 3/8 x 9/16 in. (20.8 x 13.7 x 1.4 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "Public domain"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "books"
+                    }]
+                }
+            },
+            "hash": "2bb35e3a82634261d8905f896cee1f18b7b3d2f4",
+            "docSignature": "13b3623d192520172898718331bf629e17d4e4b3_e1f9e40cc1be0981753ff24d9164eec8",
+            "timestamp": "1596269687",
+            "lastTimeUpdated": "1596269683",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2010.18.2",
+            "title": "Binoculars used by Peter L. Robinson, Sr. during World War I",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2010.18.2",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2010.18.2",
+                    "online_media": {
+                        "mediaCount": 3,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_001",
+                            "idsId": "NMAAHC-2010_18_2_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az97c6c13dd-6267-4ad6-b76b-8347b39f7884",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (4162x4162)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_002",
+                            "idsId": "NMAAHC-2010_18_2_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az93de7ec25-c178-4fd6-8b60-8b5d4ae38655",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3954x3954)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_002_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_003",
+                            "idsId": "NMAAHC-2010_18_2_003",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9e2797bd9-588b-4acf-89c2-ae2f75c99d1d",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2010_18_2_003",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_003.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3860x3860)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_003.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_003_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2010_18_2_003_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "BINOCULARS USED BY PETER L. ROBINSON, SR. DURING WORLD WAR I",
+                    "guid": "http://n2t.net/ark:/65665/fd569673263-2fc2-4d97-89f1-770486d4fe40",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2010.18.2",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Binoculars used by Peter L. Robinson, Sr. during World War I"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1920s", "1910s"],
+                    "exhibition": [{
+                        "exhibitionTitle": "Double Victory: The African American Military Experience",
+                        "building": "NMAAHC"
+                    }],
+                    "object_type": ["Binoculars"],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Robinson, Peter L.", "Carl Zeiss", "92d Infantry Division"],
+                    "onPhysicalExhibit": ["Yes"],
+                    "topic": ["World War, 1914-1918", "Military"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Tools and Equipment-Military"
+                    }, {
+                        "label": "Exhibition",
+                        "content": "Double Victory: The African American Military Experience"
+                    }, {
+                        "label": "On View",
+                        "content": "NMAAHC (1400 Constitution Ave NW), National Mall Location, Community/Third Floor, 3 053"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "ca. 1917"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2010.18.2"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "A set of black Zeiss-Stereo Day Marine Glass binoculars with Bausch & Lomb lenses and a brown leather strap."
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift of Peter L. Robinson, Jr. and Marie Robinson Johnson"
+                    }],
+                    "name": [{
+                        "label": "Manufactured by",
+                        "content": "Carl Zeiss, German, founded 1846"
+                    }, {
+                        "label": "Used by",
+                        "content": "Peter L. Robinson Sr., American, 1892 - 1979"
+                    }, {
+                        "label": "Subject of",
+                        "content": "92d Infantry Division, American, 1917 - 1945"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Military"
+                    }, {
+                        "label": "Topic",
+                        "content": "World War I"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "leather , glass and metal"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "without strap: 2 5/16 x 6 7/8 x 4 1/2 in. (5.9 x 17.5 x 11.4 cm)"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "with strap: 2 5/16 x 6 7/16 x 16 1/2 in. (5.9 x 16.4 x 41.9 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "Public domain"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "binoculars"
+                    }]
+                }
+            },
+            "hash": "d3dec83e0fa1ed4694795e3331b2e91943596f6c",
+            "docSignature": "f9392a9367244bc85a9af5531eea950d59b6e8ac_bf4dd0c60d35feb5ada9837e3ea3937a",
+            "timestamp": "1596269687",
+            "lastTimeUpdated": "1596269683",
+            "version": ""
+        }, {
+            "id": "edanmdm-nmaahc_2011.51.4",
+            "title": "Brass stencil for William Hill",
+            "unitCode": "NMAAHC",
+            "type": "edanmdm",
+            "url": "edanmdm:nmaahc_2011.51.4",
+            "content": {
+                "descriptiveNonRepeating": {
+                    "record_ID": "nmaahc_2011.51.4",
+                    "online_media": {
+                        "mediaCount": 2,
+                        "media": [{
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_4_001",
+                            "idsId": "NMAAHC-2011_51_4_001",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az9fdbbf9e9-cf4a-45c2-b37e-6f03807de351",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_4_001",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_001.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3000x3000)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_001.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_001_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_001_thumb"
+                            }]
+                        }, {
+                            "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_4_002",
+                            "idsId": "NMAAHC-2011_51_4_002",
+                            "usage": {
+                                "access": "CC0"
+                            },
+                            "guid": "http://n2t.net/ark:/65665/az96b8c9b4d-d630-49c0-be65-a9a695ff5736",
+                            "type": "Images",
+                            "content": "https://ids.si.edu/ids/deliveryService?id=NMAAHC-2011_51_4_002",
+                            "resources": [{
+                                "label": "High-resolution TIFF",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_002.tif"
+                            }, {
+                                "label": "High-resolution JPEG (3000x3000)",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_002.jpg"
+                            }, {
+                                "label": "Screen Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_002_screen"
+                            }, {
+                                "label": "Thumbnail Image",
+                                "url": "https://ids.si.edu/ids/download?id=NMAAHC-2011_51_4_002_thumb"
+                            }]
+                        }]
+                    },
+                    "unit_code": "NMAAHC",
+                    "title_sort": "BRASS STENCIL FOR WILLIAM HILL",
+                    "guid": "http://n2t.net/ark:/65665/fd518aaf735-9361-4d0b-9506-991e4ae28483",
+                    "record_link": "https://nmaahc.si.edu/object/nmaahc_2011.51.4",
+                    "title": {
+                        "label": "Object Name",
+                        "content": "Brass stencil for William Hill"
+                    },
+                    "metadata_usage": {
+                        "access": "CC0"
+                    },
+                    "data_source": "National Museum of African American History and Culture"
+                },
+                "indexedStructured": {
+                    "date": ["1850s", "1860s", "1870s"],
+                    "object_type": ["Stencils (images)"],
+                    "geoLocation": [{
+                        "L1": {
+                            "type": "Continent",
+                            "content": "North America"
+                        },
+                        "L2": {
+                            "type": "Country",
+                            "content": "United States of America"
+                        }
+                    }],
+                    "culture": ["African Americans"],
+                    "online_media_rights": ["No Known Copyright Restrictions"],
+                    "name": ["Hill, William"],
+                    "topic": ["Slavery", "Civil War, 1861-1865", "American Civil War (1861-1865)", "Military", "United States Colored Troops"],
+                    "place": ["United States"],
+                    "online_media_type": ["Images"]
+                },
+                "freetext": {
+                    "setName": [{
+                        "label": "See more items in",
+                        "content": "National Museum of African American History and Culture Collection"
+                    }, {
+                        "label": "Collection title",
+                        "content": "Liljenquist Family Collection"
+                    }, {
+                        "label": "Classification",
+                        "content": "Slavery and Freedom Objects"
+                    }, {
+                        "label": "Classification",
+                        "content": "Memorabilia and Ephemera"
+                    }],
+                    "date": [{
+                        "label": "Date",
+                        "content": "ca. 1863"
+                    }],
+                    "identifier": [{
+                        "label": "Object number",
+                        "content": "2011.51.4"
+                    }],
+                    "notes": [{
+                        "label": "Description",
+                        "content": "Metal plate with raised edge and cut out letters “Wm.HILL,/ Co.G.29,' Conn.V”"
+                    }],
+                    "creditLine": [{
+                        "label": "Credit Line",
+                        "content": "Collection of the Smithsonian National Museum of African American History and Culture, Gift from the Liljenquist Family Collection"
+                    }],
+                    "name": [{
+                        "label": "Created by",
+                        "content": "Unidentified"
+                    }, {
+                        "label": "Owned by",
+                        "content": "William Hill, American, 1840 - 1914"
+                    }],
+                    "topic": [{
+                        "label": "Topic",
+                        "content": "African American"
+                    }, {
+                        "label": "Topic",
+                        "content": "Military"
+                    }, {
+                        "label": "Topic",
+                        "content": "Slavery"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States Colored Troops"
+                    }, {
+                        "label": "Topic",
+                        "content": "United States--History--Civil War, 1861-1865"
+                    }],
+                    "physicalDescription": [{
+                        "label": "Medium",
+                        "content": "brass (alloy)"
+                    }, {
+                        "label": "Dimensions",
+                        "content": "1 5/8 x 3 5/8 x 1/16 in. (4.1 x 9.2 x 0.2 cm)"
+                    }],
+                    "dataSource": [{
+                        "label": "Data Source",
+                        "content": "National Museum of African American History and Culture"
+                    }],
+                    "objectRights": [{
+                        "label": "Restrictions & Rights",
+                        "content": "No Known Copyright Restrictions"
+                    }],
+                    "objectType": [{
+                        "label": "Type",
+                        "content": "stencils (images)"
+                    }]
+                }
+            },
+            "hash": "c921a356f03bfbba3ad1fabf69ae3a9cc9367f67",
+            "docSignature": "460865f483452a34f05b22bfca9fc5b141668335_d912dae55a1c59bc5eae24e7abda911e",
+            "timestamp": "1596269687",
+            "lastTimeUpdated": "1596269683",
+            "version": ""
+        }],
+        "rowCount": 2394,
+        "message": "content found"
+    }
+}]
