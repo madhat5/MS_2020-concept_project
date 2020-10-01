@@ -1,11 +1,7 @@
 // console.log('sim sim salabim');
 "use strict"
 
-const fs = require('fs'),
-    querystring = require('querystring'),
-    request = require('request'),
-    async = require('async'),
-        dotenv = require('dotenv');
+const   fs = require('fs');
 
 // Data model
 var dataModel = [{
