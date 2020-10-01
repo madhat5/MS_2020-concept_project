@@ -39,15 +39,6 @@ $.getJSON("./data/cleanData.json", jsonData => {
         .append("g")
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
-    // Create dummy data
-    var data = {
-        a: 9,
-        b: 20,
-        c: 30,
-        d: 8,
-        e: 12
-    }
-
     // set the color scale
     var color = d3.scaleOrdinal()
         .domain(dataObj)
