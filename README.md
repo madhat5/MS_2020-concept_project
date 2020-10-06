@@ -43,7 +43,7 @@
     - Coding ref:
         > https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
         > https://jariz.github.io/vibrant.js/
-        - Sunbursts
+        - Sunbursts/Donut
             > https://bl.ocks.org/denjn5/e1cdbbe586ac31747b4a304f8f86efa5
             > https://observablehq.com/@d3/zoomable-sunburst
             > https://bl.ocks.org/kerryrodden/7090426
@@ -51,6 +51,9 @@
             > https://bl.ocks.org/jgaffuri/434e5ae309deef74715a1758afa8130d
             > https://github.com/eurostat/d3.sunburst
             > https://plotly.com/javascript/sunburst-charts/
+            > https://www.d3-graph-gallery.com/graph/donut_label.html
+            > https://bl.ocks.org/cflavs/ff1c6005fd7edad32641
+            > http://bl.ocks.org/vreymond/0dc9f9ed563fff42c143c24a0aca1f63
     - Color theory refs:
         > https://www.rit.edu/science/munsell-color-lab
         > https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/
