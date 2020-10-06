@@ -39,6 +39,8 @@ dataObj.forEach((el, i) => {
     //     // yr.replace(/s/,"");
     // });
 
+    // https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/
+
     cleanData.push({
         id: el.id,
         title: el.title,

@@ -22,10 +22,15 @@ $.getJSON("./data/cleanData.json", jsonData => {
     // console.log(jsonData.length);
 
     var dataObj = getTopicObject(jsonData);
+    // console.log(dataObj)
+    // console.log(Object.keys(dataObj).length)
+    // console.log(Object.entries(dataObj))
+    // console.log(Object.values(dataObj))
+
 
     // set the dimensions and margins of the graph
-    var width = 600
-    height = 600
+    var width = 650
+    height = 650
     margin = 40
 
     // The radius of the pieplot is half the width or half the height (smallest one). I subtract a bit of margin.
@@ -40,17 +45,21 @@ $.getJSON("./data/cleanData.json", jsonData => {
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
     // set the color scale
+    // var color = d3.scaleSequential()
+    //     .domain(dataObj)
+        // .interpolator(d3.interpolateGreys);
     var color = d3.scaleOrdinal()
         .domain(dataObj)
-        .range(d3.schemeCategory20c)
-        // .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"])
+        .range(d3.schemeCategory20c);
+    // .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56"])
 
     // Compute the position of each group on the pie:
     var pie = d3.pie()
-        .value(function (d) {
+        .value((d) => {
             return d.value;
         })
     var data_ready = pie(d3.entries(dataObj))
+    // console.log(data_ready)
 
     // Build the pie chart: Basically, each part of the pie is a path that we build using the arc function.
     svg
@@ -62,82 +71,10 @@ $.getJSON("./data/cleanData.json", jsonData => {
             .innerRadius(100) // This is the size of the donut hole
             .outerRadius(radius)
         )
-        .attr('fill', function (d) {
-            return (color(d.dataObj.key))
+        .attr('fill', (d) => {
+            return (color(d.data.key));
         })
         .attr("stroke", "black")
         .style("stroke-width", "2px")
         .style("opacity", 0.7)
 });
-
-
-
-
-// ======================================================================
-/*    
-    var nodeData = {
-        "name": "TOPICS",
-        "children": jsonData
-    };
-
-    var metaData = [];
-    var metObj = {
-        topic: 1
-    };
-
-    // Variables
-    var width = 500;
-    var height = 500;
-    var radius = Math.min(width, height) / 2;
-    var color = d3.scaleOrdinal(d3.schemePaired);
-
-    // Create primary <g> element
-    var g = d3.select('svg')
-        .attr('width', width)
-        .attr('height', height)
-        .append('g')
-        .attr('transform', 'translate(' + width / 2 + ',' + height / 2 + ')');
-
-    // Data strucure
-    var partition = d3.partition()
-        .size([2 * Math.PI, radius]);
-
-    // Find data root
-    var root = d3.hierarchy(jsonData)
-        .count(d => {
-            return d.topic.length
-        })
-    // .count(d => {
-    //     return d.objectType.length
-    // })
-    // .count(d => {
-    //     return d.year.length
-    // });
-
-    // Size arcs
-    partition(root);
-    var arc = d3.arc()
-        .startAngle(d => {
-            return d.x0
-        })
-        .endAngle(d => {
-            return d.x1
-        })
-        .innerRadius(d => {
-            return d.y0
-        })
-        .outerRadius(d => {
-            return d.y1
-        });
-
-    // // Put it all together
-    g.selectAll('path')
-        .data(root.descendants())
-        .enter().append('path')
-        .attr("display", function (d) {
-            return d.depth ? null : "none";
-        })
-        .attr("d", arc)
-        .style('stroke', '#fff')
-        .style("fill", function (d) { return color((d.children ? d : d.parent).data.title); });
-*/

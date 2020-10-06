@@ -44,6 +44,7 @@
         > https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
         > https://jariz.github.io/vibrant.js/
         - Sunbursts
+            > https://bl.ocks.org/denjn5/e1cdbbe586ac31747b4a304f8f86efa5
             > https://observablehq.com/@d3/zoomable-sunburst
             > https://bl.ocks.org/kerryrodden/7090426
             > https://strongriley.github.io/d3/ex/sunburst.html
