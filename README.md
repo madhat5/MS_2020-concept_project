@@ -21,6 +21,11 @@
 
 **Project Concept**
 
+NEXT:
+- use raw graphs for bubble?
+- build new json for sunburst?
+    - include topics > object type (> totals?)
+
 *Design concept:*
 
 ![African American Culture](https://raw.githubusercontent.com/madhat5/MS_2020-concept_project/master/ASSETS/Screen%20Shot%202020-10-01%20at%208.49.37%20AM.png)
@@ -53,7 +58,9 @@
             > https://plotly.com/javascript/sunburst-charts/
             > https://www.d3-graph-gallery.com/graph/donut_label.html
             > https://bl.ocks.org/cflavs/ff1c6005fd7edad32641
+            > http://bl.ocks.org/arpitnarechania/577bd1d188d66dd7dffb69340dc2d9c9
             > http://bl.ocks.org/vreymond/0dc9f9ed563fff42c143c24a0aca1f63
+            > https://medium.com/@kj_schmidt/show-data-on-mouse-over-with-d3-js-3bf598ff8fc2
     - Color theory refs:
         > https://www.rit.edu/science/munsell-color-lab
         > https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/
@@ -149,3 +156,4 @@
 
 ##### Instructions
 - npm install request async dotenv
+

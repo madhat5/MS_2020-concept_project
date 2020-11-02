@@ -58,4 +58,27 @@ function writeFile(fsName, fsData) {
     console.log('writeFile complete for', fsName);
 };
 
-writeFile('cleanData', cleanData);
+// writeFile('cleanData', cleanData);
+
+// ================================================
+
+function getTopicObject(arr) {
+    var obj = {};
+
+    arr.forEach(i => {
+        i.topic.forEach(t => {
+            if (!obj.hasOwnProperty(t)) {
+                obj[t] = 1
+            } else {
+                obj[t] += 1;
+            }
+        });
+    });
+
+    return obj;
+}
+
+let tempDataObj = getTopicObject(cleanData);
+let tempDataArr = []
+tempDataArr.push(tempDataObj)
+writeFile('rawGraphsData ', tempDataArr);
