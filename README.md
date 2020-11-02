@@ -28,7 +28,7 @@ NEXT:
 
 *Design concept:*
 
-![African American Culture](https://raw.githubusercontent.com/madhat5/MS_2020-concept_project/master/ASSETS/Screen%20Shot%202020-10-01%20at%208.49.37%20AM.png)
+![African American Culture at the Smithsonian](https://raw.githubusercontent.com/madhat5/MS_2020-concept_project/master/DEPLOY/AA-Culture-Smithsonian.png)
 
 
 1. We will be analyzing the collection distribution of the National Museum of African American History and Culture
